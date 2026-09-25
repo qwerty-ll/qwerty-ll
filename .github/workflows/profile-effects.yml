@@ -1,0 +1,19 @@
+name: Profile effects
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  effects:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: qwerty-ll/CustomizeYouProfile@v1
+        with:
+          effects: all
+          language: ru
