@@ -4,28 +4,10 @@
 
 import { mkdir, writeFile } from "node:fs/promises";
 import { join } from "node:path";
+import { LEVELS, fetchCalendar, parseArgs } from "./lib.mjs";
 
-const login = process.argv[2];
-const outDir = process.argv[3] ?? "dist";
-const token = process.env.GITHUB_TOKEN;
-if (!login || !token) {
-  console.error("usage: GITHUB_TOKEN=... node space-shooter.mjs <login> [outDir]");
-  process.exit(1);
-}
-
-// ---------- data ----------
-const query = `query($login:String!){user(login:$login){contributionsCollection{contributionCalendar{
-  totalContributions weeks{contributionDays{date weekday contributionCount contributionLevel}}}}}}`;
-const res = await fetch("https://api.github.com/graphql", {
-  method: "POST",
-  headers: { Authorization: `bearer ${token}`, "Content-Type": "application/json" },
-  body: JSON.stringify({ query, variables: { login } }),
-});
-const json = await res.json();
-if (!res.ok || json.errors) throw new Error(JSON.stringify(json.errors ?? json));
-const calendar = json.data.user.contributionsCollection.contributionCalendar;
-
-const LEVELS = { NONE: 0, FIRST_QUARTILE: 1, SECOND_QUARTILE: 2, THIRD_QUARTILE: 3, FOURTH_QUARTILE: 4 };
+const { login, outDir, token } = parseArgs("space-shooter.mjs");
+const calendar = await fetchCalendar(login, token);
 
 // ---------- layout ----------
 const STEP = 13, CELL = 10;
