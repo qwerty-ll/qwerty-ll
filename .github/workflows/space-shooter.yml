@@ -11,11 +11,17 @@ on:
 permissions:
   contents: write
 
+# Runs queue up instead of racing each other's pushes.
+concurrency:
+  group: profile-animations
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: 22
