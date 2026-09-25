@@ -25,9 +25,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: |
-          node scripts/space-shooter.mjs ${{ github.repository_owner }} dist
-          node scripts/dino-run.mjs ${{ github.repository_owner }} dist
+      - name: Generate every animation in scripts/
+        run: |
+          for script in scripts/*.mjs; do
+            [ "$script" = scripts/lib.mjs ] && continue
+            node "$script" ${{ github.repository_owner }} dist
+          done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit updated SVGs
