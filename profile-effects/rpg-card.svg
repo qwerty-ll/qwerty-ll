@@ -32,7 +32,7 @@
 @keyframes bd1{0.0000%{opacity:0;transform:scale(1)}29.8805%{opacity:0;transform:scale(1)}32.8685%{opacity:.8;transform:scale(1)}94.0239%{opacity:.8;transform:scale(1)}99.0040%{opacity:0;transform:scale(1)}100.0000%{opacity:0;transform:scale(1)}}
 @keyframes bd2{0.0000%{opacity:0;transform:scale(.2)}32.0518%{opacity:0;transform:scale(.2)}32.0717%{opacity:0;transform:scale(.2);animation-timing-function:cubic-bezier(.3,1.6,.5,1)}36.0558%{opacity:1;transform:scale(1)}94.0239%{opacity:1;transform:scale(1)}99.0040%{opacity:0;transform:scale(1)}100.0000%{opacity:0;transform:scale(1)}}
 @keyframes bd3{0.0000%{opacity:0;transform:scale(1)}34.2629%{opacity:0;transform:scale(1)}37.2510%{opacity:.8;transform:scale(1)}94.0239%{opacity:.8;transform:scale(1)}99.0040%{opacity:0;transform:scale(1)}100.0000%{opacity:0;transform:scale(1)}}
-@keyframes bd4{0.0000%{opacity:0;transform:scale(1)}36.4542%{opacity:0;transform:scale(1)}39.4422%{opacity:.8;transform:scale(1)}94.0239%{opacity:.8;transform:scale(1)}99.0040%{opacity:0;transform:scale(1)}100.0000%{opacity:0;transform:scale(1)}}
+@keyframes bd4{0.0000%{opacity:0;transform:scale(.2)}36.4343%{opacity:0;transform:scale(.2)}36.4542%{opacity:0;transform:scale(.2);animation-timing-function:cubic-bezier(.3,1.6,.5,1)}40.4382%{opacity:1;transform:scale(1)}94.0239%{opacity:1;transform:scale(1)}99.0040%{opacity:0;transform:scale(1)}100.0000%{opacity:0;transform:scale(1)}}
 @keyframes bd5{0.0000%{opacity:0;transform:scale(1)}38.6454%{opacity:0;transform:scale(1)}41.6335%{opacity:.8;transform:scale(1)}94.0239%{opacity:.8;transform:scale(1)}99.0040%{opacity:0;transform:scale(1)}100.0000%{opacity:0;transform:scale(1)}}
 @keyframes bd6{0.0000%{opacity:0;transform:scale(1)}40.8367%{opacity:0;transform:scale(1)}43.8247%{opacity:.8;transform:scale(1)}94.0239%{opacity:.8;transform:scale(1)}99.0040%{opacity:0;transform:scale(1)}100.0000%{opacity:0;transform:scale(1)}}
 @keyframes bd7{0.0000%{opacity:0;transform:scale(.2)}43.0080%{opacity:0;transform:scale(.2)}43.0279%{opacity:0;transform:scale(.2);animation-timing-function:cubic-bezier(.3,1.6,.5,1)}47.0120%{opacity:1;transform:scale(1)}94.0239%{opacity:1;transform:scale(1)}99.0040%{opacity:0;transform:scale(1)}100.0000%{opacity:0;transform:scale(1)}}
@@ -51,21 +51,21 @@
 <rect x="72" y="160" width="80" height="22" rx="11" fill="#1b1530" stroke="url(#gold)" stroke-width="1.5"/><text x="112" y="175" text-anchor="middle" class="lvl">LV 21</text>
 <text x="112" y="208" text-anchor="middle" class="name">mellou</text>
 <text x="112" y="226" text-anchor="middle" class="klass">JavaScript Sorcerer</text>
-<text x="230" y="46" class="label">EXPERIENCE</text><text x="820" y="46" class="label" text-anchor="end">281 contributions · next level 12%</text>
+<text x="230" y="46" class="label">EXPERIENCE</text><text x="820" y="46" class="label" text-anchor="end">296 contributions · next level 65%</text>
 <rect x="230" y="54" width="590" height="12" rx="6" fill="#2a2340"/>
-<rect x="230" y="54" width="68.2" height="12" rx="6" fill="url(#xp)" filter="url(#glow)" class="m fbl" style="animation-name:xp"/>
+<rect x="230" y="54" width="380.9" height="12" rx="6" fill="url(#xp)" filter="url(#glow)" class="m fbl" style="animation-name:xp"/>
 <text x="230" y="105" class="key" fill="#ff6b6b">STR</text><text x="268" y="105" class="label">commits this year</text>
 <rect x="390" y="96" width="420" height="10" rx="5" fill="#2a2340"/>
-<rect x="390" y="96" width="320" height="10" rx="5" fill="#ff6b6b" class="m fbl" style="animation-name:st0"/>
-<text x="820" y="105" text-anchor="end" class="m val" style="animation-name:sv0">262</text>
+<rect x="390" y="96" width="321.3" height="10" rx="5" fill="#ff6b6b" class="m fbl" style="animation-name:st0"/>
+<text x="820" y="105" text-anchor="end" class="m val" style="animation-name:sv0">268</text>
 <text x="230" y="131" class="key" fill="#4dabf7">INT</text><text x="268" y="131" class="label">public repos</text>
 <rect x="390" y="122" width="420" height="10" rx="5" fill="#2a2340"/>
 <rect x="390" y="122" width="303.7" height="10" rx="5" fill="#4dabf7" class="m fbl" style="animation-name:st1"/>
 <text x="820" y="131" text-anchor="end" class="m val" style="animation-name:sv1">23</text>
 <text x="230" y="157" class="key" fill="#51cf66">DEX</text><text x="268" y="157" class="label">pull requests</text>
 <rect x="390" y="148" width="420" height="10" rx="5" fill="#2a2340"/>
-<rect x="390" y="148" width="102" height="10" rx="5" fill="#51cf66" class="m fbl" style="animation-name:st2"/>
-<text x="820" y="157" text-anchor="end" class="m val" style="animation-name:sv2">3</text>
+<rect x="390" y="148" width="188.8" height="10" rx="5" fill="#51cf66" class="m fbl" style="animation-name:st2"/>
+<text x="820" y="157" text-anchor="end" class="m val" style="animation-name:sv2">12</text>
 <text x="230" y="183" class="key" fill="#f783ac">CHA</text><text x="268" y="183" class="label">followers</text>
 <rect x="390" y="174" width="420" height="10" rx="5" fill="#2a2340"/>
 <rect x="390" y="174" width="46.8" height="10" rx="5" fill="#f783ac" class="m fbl" style="animation-name:st3"/>
@@ -78,7 +78,7 @@
 <rect x="390" y="226" width="420" height="10" rx="5" fill="#2a2340"/>
 <rect x="390" y="226" width="93.7" height="10" rx="5" fill="#ffd43b" class="m fbl" style="animation-name:st5"/>
 <text x="820" y="235" text-anchor="end" class="m val" style="animation-name:sv5">3</text>
-<text x="230" y="264" class="label">ACHIEVEMENTS · 3/8</text>
+<text x="230" y="264" class="label">ACHIEVEMENTS · 4/8</text>
 <g class="m fb" style="animation-name:bd0"><circle cx="245" cy="284" r="14" fill="#2d2150" stroke="url(#gold)" stroke-width="1.5"/>
       <text x="245" y="289" text-anchor="middle" class="icon">🌱</text>
       <title>First steps</title></g>
@@ -91,9 +91,9 @@
 <g class="m fb" style="animation-name:bd3"><circle cx="485" cy="284" r="14" fill="#1a1626" stroke="#3a3450" stroke-width="1.5"/>
       <text x="485" y="289" text-anchor="middle" class="icon" opacity=".25">⭐</text>
       <text x="494" y="297" text-anchor="middle" class="lock">🔒</text><title>Star collector (locked)</title></g>
-<g class="m fb" style="animation-name:bd4"><circle cx="565" cy="284" r="14" fill="#1a1626" stroke="#3a3450" stroke-width="1.5"/>
-      <text x="565" y="289" text-anchor="middle" class="icon" opacity=".25">🤝</text>
-      <text x="574" y="297" text-anchor="middle" class="lock">🔒</text><title>Team player (locked)</title></g>
+<g class="m fb" style="animation-name:bd4"><circle cx="565" cy="284" r="14" fill="#2d2150" stroke="url(#gold)" stroke-width="1.5"/>
+      <text x="565" y="289" text-anchor="middle" class="icon">🤝</text>
+      <title>Team player</title></g>
 <g class="m fb" style="animation-name:bd5"><circle cx="645" cy="284" r="14" fill="#1a1626" stroke="#3a3450" stroke-width="1.5"/>
       <text x="645" y="289" text-anchor="middle" class="icon" opacity=".25">👥</text>
       <text x="654" y="297" text-anchor="middle" class="lock">🔒</text><title>Influencer (locked)</title></g>
