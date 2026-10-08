@@ -76,8 +76,8 @@
 <text x="820" y="209" text-anchor="end" class="m val" style="animation-name:sv4">4</text>
 <text x="230" y="235" class="key" fill="#ffd43b">LUK</text><text x="268" y="235" class="label">stars earned</text>
 <rect x="390" y="226" width="420" height="10" rx="5" fill="#2a2340"/>
-<rect x="390" y="226" width="93.7" height="10" rx="5" fill="#ffd43b" class="m fbl" style="animation-name:st5"/>
-<text x="820" y="235" text-anchor="end" class="m val" style="animation-name:sv5">3</text>
+<rect x="390" y="226" width="108.7" height="10" rx="5" fill="#ffd43b" class="m fbl" style="animation-name:st5"/>
+<text x="820" y="235" text-anchor="end" class="m val" style="animation-name:sv5">4</text>
 <text x="230" y="264" class="label">ACHIEVEMENTS · 4/8</text>
 <g class="m fb" style="animation-name:bd0"><circle cx="245" cy="284" r="14" fill="#2d2150" stroke="url(#gold)" stroke-width="1.5"/>
       <text x="245" y="289" text-anchor="middle" class="icon">🌱</text>
