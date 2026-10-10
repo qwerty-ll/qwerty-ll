@@ -4,7 +4,7 @@
 <style>
     .chip{font:600 13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#e6edf3}
     @keyframes row12{from{transform:translateX(0px)}to{transform:translateX(-1512.6px)}}
-@keyframes row62{from{transform:translateX(-1112.4px)}to{transform:translateX(0px)}}</style>
+@keyframes row62{from{transform:translateX(-1335px)}to{transform:translateX(0px)}}</style>
 <g mask="url(#fadeEdges)"><g style="animation:row12 58.2s linear infinite"><g transform="translate(0,12)">
       <rect width="116" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#f7df1e"/>
@@ -12,12 +12,12 @@
       <rect width="86.4" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3776ab"/>
       <text x="28" y="20.5" class="chip">Python</text></g><g transform="translate(222.4,12)">
-      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
-      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
-      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(304,12)">
       <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#1572b6"/>
-      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(378.2,12)">
+      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(296.6,12)">
+      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
+      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(378.2,12)">
       <rect width="116" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3178c6"/>
       <text x="28" y="20.5" class="chip">TypeScript</text></g><g transform="translate(504.2,12)">
@@ -27,12 +27,12 @@
       <rect width="86.4" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3776ab"/>
       <text x="28" y="20.5" class="chip">Python</text></g><g transform="translate(726.6,12)">
-      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
-      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
-      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(808.2,12)">
       <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#1572b6"/>
-      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(882.4,12)">
+      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(800.8,12)">
+      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
+      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(882.4,12)">
       <rect width="116" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3178c6"/>
       <text x="28" y="20.5" class="chip">TypeScript</text></g><g transform="translate(1008.4,12)">
@@ -42,12 +42,12 @@
       <rect width="86.4" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3776ab"/>
       <text x="28" y="20.5" class="chip">Python</text></g><g transform="translate(1230.8,12)">
-      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
-      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
-      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(1312.4,12)">
       <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#1572b6"/>
-      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(1386.6,12)">
+      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(1305,12)">
+      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
+      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(1386.6,12)">
       <rect width="116" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3178c6"/>
       <text x="28" y="20.5" class="chip">TypeScript</text></g><g transform="translate(1512.6,12)">
@@ -57,12 +57,12 @@
       <rect width="86.4" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3776ab"/>
       <text x="28" y="20.5" class="chip">Python</text></g><g transform="translate(1735,12)">
-      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
-      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
-      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(1816.6,12)">
       <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#1572b6"/>
-      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(1890.8,12)">
+      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(1809.2,12)">
+      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
+      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(1890.8,12)">
       <rect width="116" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3178c6"/>
       <text x="28" y="20.5" class="chip">TypeScript</text></g><g transform="translate(2016.8,12)">
@@ -72,12 +72,12 @@
       <rect width="86.4" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3776ab"/>
       <text x="28" y="20.5" class="chip">Python</text></g><g transform="translate(2239.2,12)">
-      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
-      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
-      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(2320.8,12)">
       <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#1572b6"/>
-      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(2395,12)">
+      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(2313.4,12)">
+      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
+      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(2395,12)">
       <rect width="116" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3178c6"/>
       <text x="28" y="20.5" class="chip">TypeScript</text></g><g transform="translate(2521,12)">
@@ -87,84 +87,102 @@
       <rect width="86.4" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3776ab"/>
       <text x="28" y="20.5" class="chip">Python</text></g><g transform="translate(2743.4,12)">
-      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
-      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
-      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(2825,12)">
       <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#1572b6"/>
-      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(2899.2,12)">
+      <text x="28" y="20.5" class="chip">CSS</text></g><g transform="translate(2817.6,12)">
+      <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#e34f26"/>
+      <text x="28" y="20.5" class="chip">HTML</text></g><g transform="translate(2899.2,12)">
       <rect width="116" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#3178c6"/>
-      <text x="28" y="20.5" class="chip">TypeScript</text></g></g><g style="animation:row62 55.6s linear infinite"><g transform="translate(0,62)">
+      <text x="28" y="20.5" class="chip">TypeScript</text></g></g><g style="animation:row62 66.8s linear infinite"><g transform="translate(0,62)">
+      <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#f34b7d"/>
+      <text x="28" y="20.5" class="chip">C++</text></g><g transform="translate(74.2,62)">
       <rect width="79" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#89e051"/>
-      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(89,62)">
+      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(163.2,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#ed8b00"/>
-      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(170.6,62)">
+      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(244.8,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#7e858d"/>
-      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(252.2,62)">
+      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(326.4,62)">
       <rect width="108.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#C1F12E"/>
-      <text x="28" y="20.5" class="chip">Batchfile</text></g><g transform="translate(370.8,62)">
+      <text x="28" y="20.5" class="chip">Batchfile</text></g><g transform="translate(445,62)">
+      <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#f34b7d"/>
+      <text x="28" y="20.5" class="chip">C++</text></g><g transform="translate(519.2,62)">
       <rect width="79" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#89e051"/>
-      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(459.8,62)">
+      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(608.2,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#ed8b00"/>
-      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(541.4,62)">
+      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(689.8,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#7e858d"/>
-      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(623,62)">
+      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(771.4,62)">
       <rect width="108.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#C1F12E"/>
-      <text x="28" y="20.5" class="chip">Batchfile</text></g><g transform="translate(741.6,62)">
+      <text x="28" y="20.5" class="chip">Batchfile</text></g><g transform="translate(890,62)">
+      <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#f34b7d"/>
+      <text x="28" y="20.5" class="chip">C++</text></g><g transform="translate(964.2,62)">
       <rect width="79" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#89e051"/>
-      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(830.6,62)">
+      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(1053.2,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#ed8b00"/>
-      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(912.2,62)">
+      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(1134.8,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#7e858d"/>
-      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(993.8,62)">
+      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(1216.4,62)">
       <rect width="108.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#C1F12E"/>
-      <text x="28" y="20.5" class="chip">Batchfile</text></g><g transform="translate(1112.4,62)">
+      <text x="28" y="20.5" class="chip">Batchfile</text></g><g transform="translate(1335,62)">
+      <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#f34b7d"/>
+      <text x="28" y="20.5" class="chip">C++</text></g><g transform="translate(1409.2,62)">
       <rect width="79" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#89e051"/>
-      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(1201.4,62)">
+      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(1498.2,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#ed8b00"/>
-      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(1283,62)">
+      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(1579.8,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#7e858d"/>
-      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(1364.6,62)">
+      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(1661.4,62)">
       <rect width="108.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#C1F12E"/>
-      <text x="28" y="20.5" class="chip">Batchfile</text></g><g transform="translate(1483.2,62)">
+      <text x="28" y="20.5" class="chip">Batchfile</text></g><g transform="translate(1780,62)">
+      <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#f34b7d"/>
+      <text x="28" y="20.5" class="chip">C++</text></g><g transform="translate(1854.2,62)">
       <rect width="79" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#89e051"/>
-      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(1572.2,62)">
+      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(1943.2,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#ed8b00"/>
-      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(1653.8,62)">
+      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(2024.8,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#7e858d"/>
-      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(1735.4,62)">
+      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(2106.4,62)">
       <rect width="108.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#C1F12E"/>
-      <text x="28" y="20.5" class="chip">Batchfile</text></g><g transform="translate(1854,62)">
+      <text x="28" y="20.5" class="chip">Batchfile</text></g><g transform="translate(2225,62)">
+      <rect width="64.2" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
+      <circle cx="17" cy="16" r="4.5" fill="#f34b7d"/>
+      <text x="28" y="20.5" class="chip">C++</text></g><g transform="translate(2299.2,62)">
       <rect width="79" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#89e051"/>
-      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(1943,62)">
+      <text x="28" y="20.5" class="chip">Shell</text></g><g transform="translate(2388.2,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#ed8b00"/>
-      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(2024.6,62)">
+      <text x="28" y="20.5" class="chip">Java</text></g><g transform="translate(2469.8,62)">
       <rect width="71.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#7e858d"/>
-      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(2106.2,62)">
+      <text x="28" y="20.5" class="chip">Mako</text></g><g transform="translate(2551.4,62)">
       <rect width="108.6" height="32" rx="16" fill="#151b23" stroke="#30363d"/>
       <circle cx="17" cy="16" r="4.5" fill="#C1F12E"/>
       <text x="28" y="20.5" class="chip">Batchfile</text></g></g></g>
